@@ -1,12 +1,16 @@
-prefix: "&6[LootMeteor] &r"
-meteor-spawned: "&aA meteor has fallen at coordinates: &e%x%, %y%, %z%"
-meteor-spawning: "&cA meteor is approaching!"
-no-permission: "&cYou don't have permission to use this command!"
-reload-success: "&aConfiguration reloaded successfully!"
-update-available: "&aA new update is available! Version: &e%version%"
-gui-title: "&6LootMeteor Editor"
-gui-save: "&aSave and Exit"
-gui-cancel: "&cCancel"
-loot-saved: "&aLoot configuration saved!"
-invalid-command: "&cInvalid command usage!"
-chest-protected: "&cThis chest is protected!"
+prefix: '&5&l☄ &dМетеор &8» &r'
+
+meteor-spawned: '&dМетеор впав за координатами: &f%x%, %y%, %z% &7— &5поспішай залутати!'
+meteor-spawning: '&c&lУВАГА! &fМетеор наближається до цієї області!'
+
+no-permission: '&cУ тебе немає прав для цієї дії.'
+reload-success: '&aКонфігурацію успішно перезавантажено!'
+update-available: '&bДоступне оновлення плагіна! Версія: &f%version%'
+
+gui-title: '&5&lРедактор Метеорів'
+gui-save: '&aЗберегти та вийти'
+gui-cancel: '&cСкасувати'
+
+loot-saved: '&aЛут успішно збережено!'
+invalid-command: '&cНеправильне використання команди.'
+chest-protected: '&cЦя скриня захищена!'
